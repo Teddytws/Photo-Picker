@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ships</key>
+	<dict>
+		<key>Tie Fighter</key>
+		<string>tiefighter.png</string>
+		<key>Death Star</key>
+		<string>deathstar.png</string>
+		<key>X-wing Fighter</key>
+		<string>xWing.png</string>
+	</dict>
+	<key>Villians</key>
+	<dict>
+		<key>Grand Moff Tarkin</key>
+		<string>tarkin.png</string>
+		<key>Jabba The Hutt</key>
+		<string>Jabba.png</string>
+		<key>Boba Fett</key>
+		<string>boba_fett.png</string>
+		<key>Darth Vader</key>
+		<string>darth_vader.png</string>
+	</dict>
+	<key>Heroes</key>
+	<dict>
+		<key>Yoda</key>
+		<string>Yoda.png</string>
+		<key>Princess Leia</key>
+		<string>Leia.png</string>
+		<key>Obi-wan Kenobi</key>
+		<string>ObeOne.png</string>
+		<key>Luke Skywalker</key>
+		<string>Luke.png</string>
+		<key>Han Solo</key>
+		<string>HanSolo.png</string>
+	</dict>
+</dict>
+</plist>
